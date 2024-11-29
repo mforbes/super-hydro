@@ -37,7 +37,7 @@ mmf-setup = "~=0.4.2"
 ipycanvas = "~=0.8.2"
 #mmfutils = "~=0.5.3"
 jupyter-contrib-nbextensions = "~=0.5.1"
-notebook = "~=6.4.4"
+notebook = "~=6.4.12"
 jupyter_nbextensions_configurator = "~=0.4.1"
 
 # Security
